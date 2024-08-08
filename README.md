@@ -27,9 +27,4 @@ Before you begin, ensure you have the following prerequisites:
 
 ![image](https://github.com/pitabasdev/Notes-app/assets/85897297/40191dbf-fb1a-490b-9351-03575f68cda3)
 
-### Installation
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone [Github](https://github.com/pitabasdev/code-editor)https://github.com/pitabasdev/code-editor
